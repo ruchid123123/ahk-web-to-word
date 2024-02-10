@@ -15,6 +15,8 @@
 5.切换到已经打开的wps.exe。
 6.自动按下ctrl+h，输入aaaaaa，tab后粘贴剪切板内容，替换。
 
+7.还需要标题、贴文内容、帖子网页连接，分别替换bbbbbb、cccccc、dddddd
+
 
 从下列链接中提取“测试用户名”需要用什么语法？
 <a class="aw-user-name" href="/people/%E5%BE%B7%E6%89%8D%E5%85%BC%E5%A4%87%E4%B9%8B%E4%BA%BA" data-id="20297" data-reputation="18">
