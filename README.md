@@ -1,4 +1,4 @@
-# sdf# ahk-web-to-word
+# ahk-web-to-word
 
 ---
 
